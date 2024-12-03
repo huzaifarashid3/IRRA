@@ -1,0 +1,10 @@
+torch
+torchvision
+prettytable
+easydict
+regex
+pyyaml
+ftfy
+tensorboard
+tqdm
+matplotlib
